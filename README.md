@@ -3,7 +3,7 @@
 
 <p>
   <samp>
-    🌿 Full Stack Developer from India. <br>
+    🌿 Full Stack Developer from India.<br>
     🌸 Showing you how I code and Design.
     <br>
     <br>
