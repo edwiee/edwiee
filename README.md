@@ -33,11 +33,7 @@
 <br />
 <br />
 
-## 📺 Top Repository
 
-<a href="https://github.com/edwiee/CheatSheets.in">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edwiee&repo=CheatSheets.in&theme=shadow_blue" />
-</a>
 
 
 
