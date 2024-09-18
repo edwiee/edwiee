@@ -10,7 +10,7 @@
     <b>DREAM BIG | DESIGN SMART<b>
     <br>
     <br>
-    <a href = "https://edwiee.vercel.app">PORTFOLIO</a> .
+    <a href = "https://edwinvakayil.vercel.app">PORTFOLIO</a> .
     <a href = "https://www.linkedin.com/in/edwinvs/">LINKEDIN</a> .
     <a href = "https://twitter.com/edwiiy">TWITTER</a>
   </samp>
