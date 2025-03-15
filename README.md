@@ -31,7 +31,7 @@
 <br />
 <br />
 <br />
-<img src= "ia.svg" alt="Compliance ready"/>
+
 
 
 
